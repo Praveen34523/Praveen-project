@@ -1,2 +1,2 @@
 # Praveen-project
-(https://github.com/Praveen34523/Praveen-project.git)
+(https://www.figma.com/design/UIeDvJZNrBfaWokkWvOn1i/Untitled?node-id=0-1&t=LbuBisUbYTlRw7mU-1)
